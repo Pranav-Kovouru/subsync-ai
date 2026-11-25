@@ -1,0 +1,20 @@
+1
+00:00:00,000 --> 00:00:03,000
+Bonjour et bienvenue dans SubSync AI.
+
+2
+00:00:03,400 --> 00:00:06,800
+Aujourd'hui, nous allons localiser une courte vidéo.
+
+3
+00:00:07,200 --> 00:00:10,400
+De bons sous-titres permettent à chaque spectateur de se sentir inclus.
+
+4
+00:00:10,900 --> 00:00:14,200
+Ils conservent le sens, le rythme et un ton naturel.
+
+5
+00:00:14,700 --> 00:00:18,000
+Créons une version pour un nouveau public.
+

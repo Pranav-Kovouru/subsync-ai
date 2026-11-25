@@ -1,0 +1,17 @@
+.env
+__pycache__/
+*.py[cod]
+.DS_Store
+*.log
+.build/
+.build - Copy/
+output/
+output - Copy/
+outputs/
+outputs - Copy/
+samples - Copy/
+static - Copy/
+Dockerfile - Copy
+.env - Copy.example
+node_modules/
+

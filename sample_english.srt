@@ -1,0 +1,19 @@
+1
+00:00:00,000 --> 00:00:03,000
+Hello, and welcome to SubSync AI.
+
+2
+00:00:03,400 --> 00:00:06,800
+Today, we will translate short subtitle cues.
+
+3
+00:00:07,200 --> 00:00:10,400
+Good subtitles make every viewer feel included.
+
+4
+00:00:10,900 --> 00:00:14,200
+They preserve meaning, timing, and natural tone.
+
+5
+00:00:14,700 --> 00:00:18,000
+Let's create a version for a new audience.
